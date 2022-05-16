@@ -1,6 +1,6 @@
 # Configure your own Wardrobe
 
-## Initial task
+## Initial Task
 
 Imagine you have just moved into your new apartment, and then you notice that you still need a new wardrobe for your dressing room. Regrettably, you won’t find a wardrobe that fits exactly to the size of your wall. But fortunately, the Swedish furniture dealer of your choice offers you the opportunity to build your own, customized wardrobe by combining individual wardrobe elements.
 
